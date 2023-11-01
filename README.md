@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Medical+cybernetics+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Medical+cybernetics+student from Moscow)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Katenkat7☁! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 <h3 align="center">A passionate Data Analyst Student and a beginner ML Engineer </h3>
@@ -25,35 +25,9 @@
 <div id="header" align="left">
   <img src="https://media.tenor.com/BMGVnrToETEAAAAC/my-life-teenage-robot-nicktoons.gif" width="300"/>
 </div>
-<h2 title="hehehe"> Hey 👋, I'm Sanskar!</h2>
-
-<a href="https://www.linkedin.com/in/sanskar-jaiswal-102b661a3/">
-  <img align="left" alt="Sanskar's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/j.sanskarr/">
-  <img align="left" alt="Sanskar's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://twitter.com/TitanWithKagune">
-  <img align="left" alt="Sanskar's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
-</a>
-
-
-
 
 <br />
 <br />
-
-
- 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-
-**About Me!**
-
-- 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
 
 
 
@@ -68,8 +42,8 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanskarjaiswal2001&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Sanskar's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img src="https://github-readme-stats.vercel.app/api?username=katenkat7&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Katenkat7 GitHub Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="Katenkat7" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
 
 -----
