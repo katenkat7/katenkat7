@@ -33,7 +33,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-
+ฅ^•ﻌ•^ฅ
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=katenkat7&color=ff69b4&style=for-the-badge" alt="katenkat7" /> </p>
 
