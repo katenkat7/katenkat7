@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="left">
-  <img src="https://media.tenor.com/BMGVnrToETEAAAAC/my-life-teenage-robot-nicktoons.gif" width="100"/>
+  <img src="https://media.tenor.com/BMGVnrToETEAAAAC/my-life-teenage-robot-nicktoons.gif" width="300"/>
 </div>
