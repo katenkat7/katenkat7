@@ -1,5 +1,4 @@
-### ☁Hi there 👋
-I am Katenkat7 ☁
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uWYjSbkIE2XIMIc7gh/giphy.gif" width="100"/>
 </div>
