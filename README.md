@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Medical+cybernetics+student from Moscow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Medical+cybernetics+student+from+Moscow)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi!  <a href="https://emoji.gg/emoji/2696-hellokitty-sparkle"><img src="https://cdn3.emoji.gg/emojis/2696-hellokitty-sparkle.png" width="64px" height="64px" alt="hellokitty_sparkle"></a>, I'm Katenkat7☁! <img height="40" <a href="https://emoji.gg/emoji/7745-moon"><img src="https://cdn3.emoji.gg/emojis/7745-moon.gif" width="64px" height="64px" alt="Moon"></a></h1>
 <h3 align="center">A passionate Data Analyst Student and a beginner ML Engineer </h3>
@@ -22,10 +22,6 @@
 
 
 
-<div id="header" align="left">
-  <img src="https://media.tenor.com/BMGVnrToETEAAAAC/my-life-teenage-robot-nicktoons.gif" width="300"/>
-</div>
-
 <br />
 <br />
 
@@ -43,13 +39,14 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <img src="https://github-readme-stats.vercel.app/api?username=katenkat7&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Katenkat7 GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskarjaiswal2001&count_private=true&theme=radical" alt="Katenkat7" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarjaiswal2001&count_private=true&theme=radical" alt="SanskarJaiswal" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katenkat7&count_private=true&theme=radical" alt="Katenkat7" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=katenkat7&count_private=true&theme=radical" alt="Katenkat7" />
 
 -----
-Credits: [Sanskarjaiswal2001](https://github.com/sanskarjaiswal2001)
 
-Last Edited on: 20/06/2021
+<div id="header" align="left">
+  <img src="https://media.tenor.com/BMGVnrToETEAAAAC/my-life-teenage-robot-nicktoons.gif" width="300"/>
+</div>
 <!--
 **katenkat7/katenkat7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
