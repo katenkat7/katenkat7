@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Medical+cybernetics+student)](https://git.io/typing-svg)
 <div id="header" align="center">
-  <img src="(https://media.giphy.com/media/uWYjSbkIE2XIMIc7gh/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/uWYjSbkIE2XIMIc7gh/giphy.gif" width="100"/>
 </div>
