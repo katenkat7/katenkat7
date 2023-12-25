@@ -21,8 +21,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 ## 🎀 By the way here are some of my statistics 🎀
-![Katenkat7 github stats](https://github-readme-stats.vercel.app/api?username=katenkat7&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=katenkat7&count_private=true&theme=radical" alt="Katenkat7"/>
+
 ![Katenkat7](https://github-readme-stats.vercel.app/api/top-langs/?username=katenkat7&count_private=true&theme=radical)
 
 
@@ -30,7 +29,7 @@
 
 
 -----
-<h3 align="center">Connect with me:</h3>
+
 <div align="center">
 
 ฅ^•ﻌ•^ฅ
